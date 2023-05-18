@@ -15,7 +15,6 @@ $orderDate = new OrderCounter(
 
 var_dump($orderDate->getTime());
 
-
 class OrderCounter {
 
     public $orderDate;
